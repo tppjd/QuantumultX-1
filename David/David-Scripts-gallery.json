@@ -45,7 +45,7 @@
         "config": "*/30 8-23/1 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/fqxs.js, tag=David-番茄小说, img-url=https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/Icon/fqxs.png, enabled=false",
         "addons": " https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/fqxs.conf"
       },{
-        "config": "20 8,20 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/gylm.js, tag=David-高佣联盟, img-url=https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/Icon/gylm.png, enabled=false",
+        "config": "20 7,20 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/gylm.js, tag=David-高佣联盟, img-url=https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/Icon/gylm.png, enabled=false",
         "addons": " https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/gylm.conf"
       },{
         "config": "*/20 6-23/1 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/hlhb.js, tag=David-欢乐红包, img-url=https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/Icon/hlhb.png, enabled=false",
