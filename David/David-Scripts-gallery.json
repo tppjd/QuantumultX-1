@@ -66,7 +66,7 @@
         "config": "15 0-23/1 * * * kkd.js, tag=David-快看点, img-url=https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/Icon/kkd.png, enabled=false",
         "addons": " https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/kkd.conf"
       },{
-        "config": "13 7-18/1 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/ks.js, tag=David-快手段视频, img-url=https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/Icon/ks.png, enabled=false",
+        "config": "13 7-18/1 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/ks.js, tag=David-快手, img-url=https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/Icon/ks.png, enabled=false",
         "addons": " https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/ks.conf"
       },{
         "config": "*/30 6-23/1 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/ls.js, tag=David-来闪, img-url=https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/Icon/ls.png, enabled=false",
