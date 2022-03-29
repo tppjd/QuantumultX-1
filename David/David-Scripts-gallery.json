@@ -97,7 +97,7 @@
       "config": "20 6-22/2 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/sqxs.js, tag=David-舒淇日常, img-url=https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/Icon/sqxs.png, enabled=false",
       "addons": " https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/sqxs.conf"
     },{
-      "config": "*/6 0-23/1 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/sl.js, tag=David-舒淇每日, img-url=https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/Icon/sqxs.png, enabled=false",
+      "config": "*/6 0-23/1 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/everyday.js, tag=David-舒淇每日, img-url=https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/Icon/sqxs.png, enabled=false",
       "addons": " https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/sqxsday.conf"
     },{
       "config": "15 8,16 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/everyday.js, tag=David-图虫, img-url=https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/Icon/tc.png, enabled=false",
